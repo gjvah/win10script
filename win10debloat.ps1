@@ -699,7 +699,6 @@ $Bloatware = @(
         "*Dolby*"
         "*Viber*"
         "*ACGMediaPlayer*"
-        "*Netflix*"
         "*OneCalendar*"
         "*LinkedInforWindows*"
         "*HiddenCityMysteryofShadows*"
